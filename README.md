@@ -22,12 +22,14 @@ edit wpa_supplicant to add your wifi setting and copy it to the root of your mic
  For more informations or custom Controls just read and/or edit Microsoft_X-Box_360_pad_8A_11B.json
 
 <h1>HELP NEEDED</h1>
-for now i was unable to boot any of a proper linux desktop on this thing
+<p></p>for now i was unable to boot any of a proper linux desktop on this thing
 i want to be able to navigate raspbian with a virtual keyboard on GPI CASE 2w only with button
-I am looking for a way to boot a proper linux Desktop environment on this thing, please contact me
+I am looking for a way to boot a proper linux Desktop environment on this thing, please contact me</p>
 
-additional thought
-- Microsoft_X-Box_360_pad_8A_11B.json config might be improved
+<h1>additional thought</h1>
+<p>- Microsoft_X-Box_360_pad_8A_11B.json config might be improved</p>
+<p>- let me think</p>
+
 
 
 
