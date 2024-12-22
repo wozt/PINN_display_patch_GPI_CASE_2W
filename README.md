@@ -34,6 +34,8 @@ If you know how to boot a proper Linux desktop environment or have suggestions, 
 ## Proof
 
 Here is a [video demonstration](https://youtube.com/shorts/IJWCeiYET-E).
+[![Demo Video](https://img.youtube.com/vi/IJWCeiYET-E/0.jpg)](https://youtube.com/shorts/IJWCeiYET-E)
+
 
 ## Additional Thoughts
 
