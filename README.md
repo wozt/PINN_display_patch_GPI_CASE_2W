@@ -9,7 +9,7 @@ go to damn boot partition (the one with config.txt in it)
 copy over config.txt and Microsoft_X-Box_360_pad_8A_11B.json to the root of your microSD card boot partition.
 edit wpa_supplicant to add your wifi setting and copy it to the root of your microSD card boot partition.
 
-Controls aka Microsoft_X-Box_360_pad_8A_11B.json
+<h1>Controls aka Microsoft_X-Box_360_pad_8A_11B.json</h1>
  -select is on the keyboard shift (mash it to get to PINN manager page )
  -dpad is mouse movment 
  -a is left click
