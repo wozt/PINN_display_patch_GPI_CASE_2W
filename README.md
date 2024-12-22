@@ -1,6 +1,7 @@
 # PINN_display_patch_GPI_CASE_2W
-a quick edit of config.txt and Microsoft_X-Box_360_pad_8A_11B.json in order to boot PINN on rpi zero2w with a retroflag gpi case 2w with wifi and control/gamepad support
-that one ->> 
+<p>a quick edit of config.txt and Microsoft_X-Box_360_pad_8A_11B.json in order to boot PINN on rpi zero2w with a retroflag gpi case 2w with wifi and control/gamepad support</p>
+<p>that one ->> </p> 
+<src
 
 
 take your microSD card and flash PINN from rpi-amager
