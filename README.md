@@ -18,7 +18,7 @@ edit wpa_supplicant to add your wifi setting and copy it to the root of your mic
  <p>-x is escape (that lead to a choice of os to boot)</p>
  
  
- For more information or custom Controls just read and/or edit Microsoft_X-Box_360_pad_8A_11B.json
+ For more informations or custom Controls just read and/or edit Microsoft_X-Box_360_pad_8A_11B.json
 
 <h1>HELP NEEDED</h1>
 for now i was unable to boot any of a proper linux desktop on this thing
