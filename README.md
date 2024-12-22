@@ -1,5 +1,5 @@
 # PINN_display_patch_GPI_CASE_2W
-<p>a quick edit of config.txt and Microsoft_X-Box_360_pad_8A_11B.json in order to boot PINN on rpi zero2w with a retroflag gpi case 2w with wifi and control/gamepad support</p>
+<p>a quick edit of config.txt and Microsoft_X-Box_360_pad_8A_11B.json \n in order to boot PINN on rpi zero2w with a retroflag retroflag GPI CASE 2W \n with wifi and control/gamepad support</p>
 <p>that one ->> </p>
 <p><img src="gpicase2w.jpg" alt="gpi case 2w"></p>
 
